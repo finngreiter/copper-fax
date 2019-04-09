@@ -4,7 +4,7 @@
   "description": "A new way to fax.",
   "main": "server.js",
   "scripts": {
-    "test": "npm server.js"
+    "test": "node server.js"
   },
   "repository": {
     "type": "git",
