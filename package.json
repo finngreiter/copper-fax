@@ -1,0 +1,23 @@
+{
+  "name": "copper-fax",
+  "version": "1.0.0",
+  "description": "A new way to fax.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finngreiter/copper-fax.git"
+  },
+  "author": "Finn Greiter",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/finngreiter/copper-fax/issues"
+  },
+  "homepage": "https://github.com/finngreiter/copper-fax#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
